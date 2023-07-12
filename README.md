@@ -29,7 +29,7 @@ SQL,
 POWER BI
 
 ## Necesidades del proyecto
-exploración de datos
+exploración de datos,
 procesamiento de datos/depuración,
 análisis cualitativo/cuantitativo
 
